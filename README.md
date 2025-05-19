@@ -24,13 +24,13 @@ This project is a real-time mood, age, and gender detection system using the web
 
 | Mood      | Food Suggestions                  |
 |-----------|-----------------------------------|
-| Happy     | Rasgulla, Gulab Jamun, Ras Malai  |
-| Sad       | Chai, Samosa, Good-day Biscuit    |
-| Angry     | Paneer Tikka, Mirchi Pakoda       |
-| Surprise  | Jalebi, Pani Puri, Dhokla         |
-| Neutral   | Roti-Sabzi, Idli-Sambar, Pulao    |
-| Disgust   | Bhindi, Karela Sabzi, Curd        |
-| Fear      | Spicy Chutney, Nimbu-Pani, Imli   |
+| Happy     | 'Ice Cream', 'Pizza', 'Burger'    |
+| Sad       | 'Chocolate', 'Cake', 'Cookies'    |
+| Angry     | 'Salad', 'Smoothie', 'Soup'       |
+| Surprise  | 'Sushi', 'Pasta', 'Tacos'         |
+| Neutral   | 'Sandwich', 'Fruit Salad', 'Grilled Chicken'    |
+| Disgust   | 'Fried Rice', 'Curry', 'Pancakes'        |
+| Fear      | 'Hot Chocolate', 'Tea', 'Warm Soup'   |
 
 ## 🛠️ Technologies Used
 
