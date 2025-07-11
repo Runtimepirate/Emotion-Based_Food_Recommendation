@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+deepface
+pillow
+numpy
+requests
